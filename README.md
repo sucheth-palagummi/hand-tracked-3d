@@ -54,7 +54,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/sucheth/hand-tracked-3d.git
+git clone https://github.com/sucheth-palagummi/hand-tracked-3d.git
 cd hand-tracked-3d
 
 # Install dependencies
@@ -133,4 +133,4 @@ HandTracker → writes to global refs → useFrame() reads refs every frame (60f
 
 ## 📄 License
 
-MIT © [Sucheth](https://github.com/sucheth)
+MIT © [Sucheth](https://github.com/sucheth-palagummi)
